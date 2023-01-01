@@ -6,7 +6,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-![Bar Chart](bar-chart.png)
+![Bar Chart](public/bar-chart.png)
 
 
-![Scatter Plot](scatter-plot.png)
+![Scatter Plot](public/scatter-plot.png)
